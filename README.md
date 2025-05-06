@@ -19,7 +19,7 @@ PassOP is a simple password manager app built with **React**, **TailwindCSS**, a
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/passOP.git
+git clone https://github.com/nileXrana/passOP-v1.0-
 cd passOP
 npm install
 npm run dev
